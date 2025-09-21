@@ -3,7 +3,7 @@
 ---
 
 # 💫 About Me
-I am a Computer Engineering student at **NTNU**, passionate about coding, artificial intelligence, and building innovative applications.  
+I am a Computer Science student at **NTNU**, passionate about coding, artificial intelligence, and building innovative applications.  
 I also have a strong interest in **entrepreneurship**.
 
 ---
