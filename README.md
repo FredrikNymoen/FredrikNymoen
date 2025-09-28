@@ -13,6 +13,8 @@ I also have a strong interest in **entrepreneurship**.
 - 🌍 Building modern web applications
 - ⌨️ Gaining experience with the MERN stack
 
+Check out my [coding portfolio](https://portfolio-website-wheat-eight-72.vercel.app/) !!
+
 ---
 
 ## 🎓 About Me
