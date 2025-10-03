@@ -11,7 +11,7 @@ I also have a strong interest in **entrepreneurship**.
 ## 🚀 What I'm Up To
 - 📱 Developing apps
 - 🌍 Building modern web applications
-- ⌨️ Gaining experience with the MERN stack
+- ⌨️ Gaining experience with Spring Boot
 
 Check out my [coding portfolio](https://portfolio-website-wheat-eight-72.vercel.app/) !!
 
