@@ -9,9 +9,10 @@ I also have a strong interest in **entrepreneurship**.
 ---
 
 ## 🚀 What I'm Up To
-- 📱 Developing apps
-- 🌍 Building modern web applications
-- ⌨️ Gaining experience with React Native
+- Developing an app called **UniKjøp**, a marketplace app for students
+- Focused on creating a simple and modern platform for buying and selling among students
+
+![Student Marketplace App](0dc3e410-ca62-49ce-a0ec-53a057f821db.png)
 
 Check out my [coding portfolio](https://portfolio-website-wheat-eight-72.vercel.app/) !!
 
