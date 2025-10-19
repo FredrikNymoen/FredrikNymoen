@@ -6,6 +6,8 @@
 I am a Computer Science student at **NTNU**, passionate about coding, artificial intelligence, and building innovative applications.  
 I also have a strong interest in **entrepreneurship**.
 
+Check out my [coding portfolio](https://portfolio-website-wheat-eight-72.vercel.app/) !!
+
 ---
 
 ## 🚀 What I'm Up To
@@ -15,8 +17,6 @@ I also have a strong interest in **entrepreneurship**.
 <p align="center">
   <img src="assets/unikjop.png" alt="UniKjøp App" width="300">
 </p>
-
-Check out my [coding portfolio](https://portfolio-website-wheat-eight-72.vercel.app/) !!
 
 ---
 
