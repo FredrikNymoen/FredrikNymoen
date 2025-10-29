@@ -11,12 +11,8 @@ Check out my [coding portfolio](https://portfolio-website-wheat-eight-72.vercel.
 ---
 
 ## 🚀 What I'm Up To
-- Developing an app called **UniKjøp**, a marketplace app for students
+- Developing an app called **unima**, a marketplace app for students
   - A simple and modern platform for buying and selling among students
-
-<p align="center">
-  <img src="assets/unikjop.png" alt="UniKjøp App" width="300">
-</p>
 
 ---
 
