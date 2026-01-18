@@ -6,13 +6,14 @@
 I am a Computer Science student at **NTNU**, passionate about coding, artificial intelligence, and building innovative applications.  
 I also have a strong interest in **entrepreneurship**.
 
-Check out my [coding portfolio](https://portfolio-website-wheat-eight-72.vercel.app/) !!
-
 ---
 
 ## 🚀 What I'm Up To
 - Developing an app called **unima**, a marketplace app for students
   - A simple and modern platform for buying and selling among students
+
+[Unima - Markedsplass for Studenter](https://unimaapp.no)
+
 
 ---
 
